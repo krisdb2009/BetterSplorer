@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterSplorer", "BetterSplorer\BetterSplorer.csproj", "{454BF18F-519C-4DA3-A6FC-CACF9C3106AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454BF18F-519C-4DA3-A6FC-CACF9C3106AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454BF18F-519C-4DA3-A6FC-CACF9C3106AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454BF18F-519C-4DA3-A6FC-CACF9C3106AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454BF18F-519C-4DA3-A6FC-CACF9C3106AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F1D72E-ED7D-4B42-967A-093F76FCBCFB}
+	EndGlobalSection
+EndGlobal
